@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Qyrus](https://github.com/QQyrus)
 
-- 👨‍💻 All of my projects are available at [https://github.com/nareshrathnam](https://github.com/nareshrathnam)
+- 👨‍💻 All of my projects are available at [https://github.com/nareshrathnam](https://github.com/nareshrathnam?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
